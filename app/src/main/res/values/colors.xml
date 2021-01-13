@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7c356</color>
+    <color name="colorPrimaryDark">#f7c356</color>
+    <color name="colorAccent">#f7c356</color>
+    <color name="boxcolor">#DFF7F2</color>
+    <color name="pink">#DB0950</color>
+    <color name="trans">#1D000000</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+</resources>
